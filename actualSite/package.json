@@ -1,0 +1,8 @@
+{
+  "name": "testvue",
+  "private": true,
+  "scripts": {
+    "serve": "..\\node_modules\\.bin\\vue-cli-service serve",
+    "build": "npm version patch && ..\\node_modules\\.bin\\vue-cli-service build"
+  }
+}
